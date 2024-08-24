@@ -2,13 +2,6 @@
 <h3 align="center">A Passionate Go + DevOps Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
-  <img src="https://img.shields.io/badge/DevOps-4A90E2?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps Badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
-</p>
-
-<p align="center">
   🌱 I’m currently learning <strong>DevOps, Docker, Kubernetes</strong><br>
   💬 Ask me about <strong>Go, PostgreSQL</strong><br>
   📫 How to reach me <strong>mshinan2002@gmail.com</strong><br>
