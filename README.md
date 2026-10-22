@@ -2,13 +2,14 @@
 
 # Hi 👋, I'm Muhammed Shinan O
 
-### Full-stack Developer • Web • Mobile • AI-assisted Development
+### Full-stack Developer • Web • Mobile • E-commerce • ERP
 
-Building scalable web applications, mobile apps, and modern e-commerce solutions.
+Shipped 40+ production projects (e-commerce stores, marketplaces, ERPs, SaaS and mobile apps) for businesses across the GCC and India.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mshinan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed%20Shinan%20O-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedshinano)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mshinan.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mshinan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed%20Shinan%20O-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedshinano/)
 [![Email](https://img.shields.io/badge/Email-mshinan2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshinan2002@gmail.com)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-4B5563?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mshinan.com/resume.pdf)
 
 </div>
 
@@ -16,19 +17,17 @@ Building scalable web applications, mobile apps, and modern e-commerce solutions
 
 # 🚀 About Me
 
-💼 Full-stack Developer at **Hello Aura LLC**
+💼 Full-stack Developer at **Hello Aura LLC** · 📍 Kannur, Kerala, India
 
-Currently building:
+I own delivery end to end, from database design to deployment, domains and SSL, for clients in Kuwait, UAE, Qatar, Saudi Arabia, Bahrain, Oman and India.
 
-- 🌐 Modern Web Applications
-- 📱 Cross-platform Mobile Apps
-- 🛒 Scalable E-commerce Platforms
-- ⚡ Production-ready REST APIs
-- 🤖 AI-assisted Development using Claude CLI
+- 🛒 Custom e-commerce stores (bilingual English / Arabic)
+- 🏪 Multi-vendor marketplaces with web + mobile apps
+- 📊 ERP systems: sales, stock, accounts, payroll
+- 📱 Cross-platform mobile apps with React Native (Expo)
+- 🤖 AI-assisted development with Claude Code, every day
 
-Previously contributed to the development of **Clique HRMS**, a multi-tenant Human Resource Management platform at **Acqodis Technologies LLP**.
-
-I enjoy building scalable software, clean architectures, and solving real-world business problems through technology.
+👉 See my work at **[mshinan.com](https://mshinan.com)**
 
 ---
 
@@ -37,53 +36,41 @@ I enjoy building scalable software, clean architectures, and solving real-world 
 ## Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css"/>
 </p>
 
 ## Mobile
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react"/>
-
-React Native
-
+React Native (Expo)
 </p>
 
 ## Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go,supabase"/>
 </p>
 
 ## Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
 </p>
 
 ## DevOps & Cloud
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,nginx"/>
-
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,nginx,linux,git,github"/>
 </p>
+
+## Payments & Integrations
+
+Razorpay · Stripe · Tap · PhonePe · Nomod · Shiprocket · Bunny Stream
 
 ## Tools
 
-- Claude CLI
-- VS Code
-- Postman
-- Vercel
-- Hostinger
-- Spaceship
+Claude Code · VS Code · Postman · Playwright · Android Studio
 
 ---
 
@@ -91,75 +78,52 @@ React Native
 
 ## 🚀 Hello Aura LLC
 
-**Full-stack Developer**
+**Full-stack Developer** · 📅 July 2026 – Present
 
-📅 July 2026 – Present
-
-- Build scalable web and mobile applications.
-- Develop modern e-commerce platforms.
-- Deploy applications using Vercel, Hostinger and Spaceship.
-- Build REST APIs using Node.js and NestJS.
-- Develop React.js, Next.js and React Native applications.
-- Utilize Claude CLI for AI-assisted software development.
-
----
+- Built and deployed **40+ client projects solo**: 19 e-commerce stores, 5 ERP systems, 4 marketplace / mobile-commerce platforms, 3 learning platforms, 2 digital-menu SaaS products and a Shopify store.
+- Stores across the GCC and India, including [Salla](https://sallakuwait.com/) (Kuwait), [Desert Essence](https://www.desertessencecosmetics.com/) (UAE), [Cart Point](https://cartpoint.qa/) (Qatar), [Noor Al Basar](https://www.clicknoor.com/) (Bahrain), [ZEN](https://zenksa.com/) (KSA), [Feliz](https://felizoman.com/) (Oman) and [Doctor in Life](https://doctorinlife.com/) (India).
+- Integrated payments and shipping; deployed on Hostinger (Nginx), Vercel and AWS, and managed domains, DNS and SSL.
 
 ## 🏢 Acqodis Technologies LLP
 
-**Software Developer**
+**Full-stack Software Developer** · 📅 April 2025 – March 2026 · Remote
 
-- Developed and maintained the **Clique HRMS** platform.
-- Built dashboards, backend APIs and authentication modules.
-- Worked across frontend and backend using React.js, Node.js and MySQL.
+- Built [**Clique HRMS**](https://clique.acqodis.com/), a multi-tenant HR management platform, in an agile team.
+- React.js dashboards, timesheets, projects and profile modules; Node.js / Express REST APIs with role-based auth and file uploads; MySQL with Sequelize.
+
+## 🎓 MakBig Learn
+
+**Golang Developer Intern** · 📅 December 2023 – September 2024
+
+- Built an admin panel for user management and an e-commerce backend with Go, Gin, JWT and PostgreSQL.
 
 ---
 
 # 🚀 Featured Projects
 
-### 🛒 Production E-commerce Platforms
+### 🛍️ Al Jahis — multi-vendor marketplace (Qatar)
 
-Production-ready client projects with secure authentication, payment integrations and scalable architecture.
+Noon-style marketplace: 4 Next.js web apps + 3 React Native apps (customer, merchant, delivery) on Supabase, in a Turborepo monorepo.
 
----
+### 📊 Elegant Bayt ERP — web + mobile
 
-### 👨‍💼 Clique HRMS
+Sales, purchasing, stock, accounts, P&L, payroll and bank reconciliation.
 
-Enterprise Human Resource Management System with
+### 🍽️ [Menooos](https://menooos.com/) — digital menu SaaS
 
-- RBAC
-- Multi-tenancy
-- Dashboard
-- Employee Management
-- Payroll
-- REST APIs
+Multi-tenant QR menus for restaurants.
 
----
+### 🎓 [COLE](https://mycole.in/) — learning platform
 
-### 🛍️ Go E-commerce Backend
+Paid courses, Bunny Stream video and certificates.
 
-Built using
+### 🗂️ [mso-pm](https://mso-pm.vercel.app/) — personal project
 
-- Go
-- Gin
-- PostgreSQL
-- JWT
-- Razorpay
+My own project management app: projects, tasks, issues, releases and clients across multiple organisations, with row-level security on every table. Next.js, TypeScript, Supabase, Playwright.
 
----
+### 🛒 [Go E-commerce Backend](https://github.com/m-shinan/proshop)
 
-### 👥 User Management System
-
-- Authentication
-- Session Management
-- Role Based Access
-
----
-
-### 🗺️ Itinerary Planning System
-
-- Route Optimization
-- GPS Tracking
-- Travel Management
+Go, Gin, PostgreSQL, JWT and Razorpay: admin and user roles, cart, wishlist, coupons, orders and OTP email verification.
 
 ---
 
@@ -177,31 +141,20 @@ Built using
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced Next.js
-- React Native
-- NestJS
-- AI-assisted Development Workflows
-- Cloud Infrastructure
-- System Design
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
 
-<a href="mailto:mshinan2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mshinan.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/muhammedshinano">
+<a href="https://www.linkedin.com/in/muhammedshinano/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://m-shinan.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="mailto:mshinan2002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
