@@ -6,7 +6,7 @@
 
 Building scalable web applications, mobile apps, and modern e-commerce solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://m-shinan.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mshinan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed%20Shinan%20O-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedshinano)
 [![Email](https://img.shields.io/badge/Email-mshinan2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshinan2002@gmail.com)
 
