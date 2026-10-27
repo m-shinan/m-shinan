@@ -119,7 +119,7 @@ Paid courses, Bunny Stream video and certificates.
 
 ### 🗂️ [mso-pm](https://pm.mshinan.com) — open-source project management
 
-Free, open-source project management for software teams: boards, tasks, issues, releases, clients, docs and live team chat across multiple organisations, with row-level security on every table. Installable as an app. Next.js, TypeScript, Supabase, Cloudflare R2. [Source](https://github.com/m-shinan/mso-pm) · AGPL-3.0
+Free, open-source project management for software teams: boards, tasks, issues, releases, clients, docs and live team chat across multiple organisations, with row-level security on every table. Usable from ChatGPT and Claude through its own MCP server (OAuth 2.1 sign-in, every action limited to the user's role). Installable as an app. Next.js, TypeScript, Supabase, MCP, Cloudflare R2. [Source](https://github.com/m-shinan/mso-pm) · AGPL-3.0
 
 ### 🛒 [Go E-commerce Backend](https://github.com/m-shinan/proshop)
 
