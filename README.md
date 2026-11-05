@@ -81,6 +81,8 @@ Claude Code · VS Code · Postman · Playwright · Android Studio
 **Full-stack Developer** · 📅 July 2026 – Present
 
 - Built and deployed **40+ client projects solo**: 19 e-commerce stores, 5 ERP systems, 4 marketplace / mobile-commerce platforms, 3 learning platforms, 2 digital-menu SaaS products and a Shopify store.
+- Built **Hello CRM**, our in-house WhatsApp CRM for iOS, Android and web (leads, pipelines, admissions, fee instalments and a live WhatsApp inbox), used every day by Hello Aura and two partner academies.
+- Landing pages including [QU LIORE](https://quliore.com.qa/) (Qatar) and [RealO Builders](https://www.realobuilders.com/) (India).
 - Stores across the GCC and India, including [Salla](https://sallakuwait.com/) (Kuwait), [Desert Essence](https://www.desertessencecosmetics.com/) (UAE), [Cart Point](https://cartpoint.qa/) (Qatar), [Noor Al Basar](https://www.clicknoor.com/) (Bahrain), [ZEN](https://zenksa.com/) (KSA), [Feliz](https://felizoman.com/) (Oman) and [Doctor in Life](https://doctorinlife.com/) (India).
 - Integrated payments and shipping; deployed on Hostinger (Nginx), Vercel and AWS, and managed domains, DNS and SSL.
 
@@ -120,6 +122,14 @@ Paid courses, Bunny Stream video and certificates.
 ### 🗂️ [mso-pm](https://pm.mshinan.com) — open-source project management
 
 Free, open-source project management for software teams: boards, tasks, issues, releases, clients, docs and live team chat across multiple organisations, with row-level security on every table. Usable from ChatGPT and Claude through its own MCP server (OAuth 2.1 sign-in, every action limited to the user's role). Installable as an app. Next.js, TypeScript, Supabase, MCP, Cloudflare R2. [Source](https://github.com/m-shinan/mso-pm) · AGPL-3.0
+
+### 🏫 [School platform](https://school-app-prototype.vercel.app/) — student performance & parent portal (prototype)
+
+One portal for the school office, teachers, parents and students: records, attendance, timetables, marks and homework, announcements and parent–teacher messages, with an LMS alongside. React, Node.js, Express, PostgreSQL. Demo logins on [mshinan.com](https://mshinan.com/#side).
+
+### 🔎 AI Job Hunter — job search assistant (in development)
+
+Finds jobs from public company boards and remote-job feeds, scores each against your verified profile and explains every point, without needing AI. Optional free, bring-your-own-key or local models help draft truthful applications. Next.js, TypeScript, Supabase, Cloudflare R2.
 
 ### 🛒 [Go E-commerce Backend](https://github.com/m-shinan/proshop)
 
