@@ -137,20 +137,6 @@ Go, Gin, PostgreSQL, JWT and Razorpay: admin and user roles, cart, wishlist, cou
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m-shinan&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=m-shinan&theme=transparent"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shinan&layout=compact&theme=transparent"/>
-
-</div>
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
