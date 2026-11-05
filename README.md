@@ -137,6 +137,28 @@ Go, Gin, PostgreSQL, JWT and Razorpay: admin and user roles, cart, wishlist, cou
 
 ---
 
+# 📈 GitHub Stats
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-shinan&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-shinan&theme=github" alt="GitHub contributions"/>
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-shinan&theme=github_dark"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-shinan&theme=github" alt="Top languages by commit"/>
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-shinan&theme=github_dark"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-shinan&theme=github" alt="Top languages by repo"/>
+</picture>
+
+</div>
+
+---
+
 # 📫 Let's Connect
 
 <div align="center">
